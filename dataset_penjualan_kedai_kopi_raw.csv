@@ -1,0 +1,124 @@
+Transaction_ID,Transaction_Date,Customer_Age,Gender,Product,Quantity,Price_Per_Item,Payment_Method,Customer_Type,Total_Amount
+TR001,2026-10-21,47.0,Male,Mocha,1.0,26000.0,QRIS,Regular,26000
+TR002,2026-10-27,51.0,Male,Mocha,1.0,26000.0,Credit Card,New,26000
+TR003,2026-10-08,32.0,female,Americano,2.0,18000.0,E-Wallet,Member,36000
+TR004,2026-10-03,44.0,Male,Ice Latte,2.0,25000.0,Debit,New,50000
+TR005,2026-10-28,47.0,Male,Matcha,2.0,23000.0,Debit,Member,46000
+TR006,01/10/2026,31.0,Female,Americano,4.0,18000.0,Debit,Member,72000
+TR007,2026-10-26,19.0,Female,Matcha,1.0,23000.0,Cash,Regular,23000
+TR008,2026-10-18,,Female,Ice Latte,1.0,25000.0,Cash,Regular,25000
+TR009,2026-10-29,53.0,Male,Americano,1.0,18000.0,Credit Card,Regular,18000
+TR010,2026-10-12,17.0,Male,Matcha,2.0,23000.0,qris,Regular,46000
+TR011,2026-10-12,50.0,Female,Cappuccino,1.0,22000.0,Credit Card,Member,22000
+TR012,2026-10-03,150.0,Male,Ice Latte,1.0,25000.0,QRIS,Regular,25000
+TR013,2026-10-09,52.0,Female,Mocha,1.0,26000.0,Debit,Member,26000
+TR014,2026-10-04,54.0,Female,Mocha,,26000.0,Credit Card,Member,26000
+TR015,2026-10-18,24.0,Female,Ice Latte,1.0,25000.0,Cash,Regular,25000
+TR016,2026-10-23,23.0,Female,Espresso,1.0,16000.0,Credit Card,Member,16000
+TR017,2026-10-01,28.0,,Ice Latte,2.0,25000.0,Cash,Regular,50000
+TR018,2026-10-07,38.0,Male,Americano,1.0,18000.0,QRIS,New,18000
+TR019,2026-10-03,22.0,F,Cappuccino,1.0,22000.0,Credit Card,Member,22000
+TR020,2026-10-27,47.0,Female,Cappuccino,2.0,22000.0,Debit,New,44000
+TR021,2026-10-22,48.0,Female,Mocha,1.0,26000.0,Cash,Regular,26000
+TR022,2026-10-26,36.0,Female,Matcha,2.0,23000.0,Debit,Member,46000
+TR023,2026-10-23,,Female,Americano,1.0,18000.0,E-Wallet,Member,18000
+TR024,2026-10-23,22.0,Female,Espresso,1.0,16000.0,QRIS,New,16000
+TR025,2026-10-04,42.0,Female,Caramel Macchiato,3.0,28000.0,Cash,Member,84000
+TR026,10-02-2026,18.0,Female,Cold Brew,3.0,24000.0,E-Wallet,Member,72000
+TR027,2026-10-17,45.0,Female,Cappuccino,1.0,22000.0,E-Wallet,New,22000
+TR028,2026-10-04,52.0,Male,Caramel Macchiato,1.0,28000.0,E-Wallet,New,28000
+TR029,2026-10-13,29.0,Female,Ice Latte,1.0,25000.0,E-Wallet,New,25000
+TR030,2026-10-24,37.0,Male,,1.0,24000.0,Cash,Member,24000
+TR031,2026-10-03,54.0,Female,Matcha,1.0,23000.0,E-Wallet,Regular,23000
+TR032,2026-10-18,22.0,Male,Americano,2.0,,Cash,Regular,36000
+TR033,2026-10-22,53.0,Male,Caramel Macchiato,2.0,28000.0,E-Wallet,Regular,56000
+TR034,2026-10-27,38.0,MALE,Cold Brew,1.0,24000.0,Credit Card,Regular,24000
+TR035,2026-10-26,48.0,Female,Cappuccino,4.0,22000.0,E-Wallet,Member,9999
+TR036,2026-10-08,31.0,Male,Americano,1.0,18000.0,Debit,Member,18000
+TR037,2026-10-06,42.0,Male,Mocha,1.0,26000.0,QRIS,New,26000
+TR038,2026-10-04,50.0,Male,Ice Latte,,25000.0,Credit Card,New,50000
+TR039,2026-10-26,33.0,Female,Americano,1.0,18000.0,Cash,Regular,18000
+TR040,2026-10-18,53.0,Male,Mocha,1.0,26000.0,QRIS,New,26000
+TR041,2026-10-21,20.0,Male,Americano,1.0,18000.0,Cash,Member,18000
+TR042,2026-10-29,38.0,Female,Americano,2.0,18000.0,QRIS,Member,36000
+TR043,2026-10-08,18.0,Male,Cold Brew,1.0,24000.0,,Regular,24000
+TR044,2026-10-21,22.0,Female,Caramel Macchiato,1.0,28000.0,QRIS,New,28000
+TR045,2026-10-06,26.0,Female,Ice Latte,1.0,25000.0,QRIS ,Member,25000
+TR046,2026-10-24,19.0,Male,Americano,1.0,18000.0,Cash,Regular,18000
+TR047,2026-10-15,,Male,Cappuccino,2.0,22000.0,Debit,New,44000
+TR048,2026-10-25,43.0,Male,Matcha,1.0,23000.0,Credit Card,Regular,23000
+TR049,2026-10-28,54.0,Male,Caramel Macchiato,1.0,28000.0,Cash,New,28000
+TR050,2026-10-04,25.0,Male,Cappuccino,2.0,22000.0,Cash,Regular,44000
+TR051,2026-10-16,49.0,Male,Caramel Macchiato,2.0,28000.0,Debit,Regular,56000
+TR052,2026-10-03,23.0,Female,Cold Brew,1.0,24000.0,QRIS,Member,24000
+TR053,2026-10-18,-4.0,Female,Matcha,1.0,23000.0,Credit Card,New,23000
+TR054,2026-10-10,47.0,Female,Cold Brew,1.0,24000.0,Credit Card,Member,24000
+TR055,2026-10-13,53.0,Male,Caramel Macchiato,3.0,28000.0,E-Wallet,,84000
+TR056,2026-10-01,33.0,Female,Cold Brew,1.0,24000.0,Cash,Member,24000
+TR057,2026-10-17,41.0,Female,Cappuccino,2.0,22000.0,E-Wallet,Regular,44000
+TR058,2026-10-28,52.0,Female,Mocha,1.0,26000.0,Cash,New,26000
+TR059,2026-10-17,48.0,Female,Ice Latte,2.0,25000.0,E-Wallet,Regular,50000
+TR060,2026-10-30,48.0,Female,Americano,2.0,18000.0,Credit Card,New,36000
+TR061,2026-10-07,47.0,m,Cappuccino,4.0,22000.0,Credit Card,Member,88000
+TR062,2026-10-17,43.0,,Cold Brew,1.0,24000.0,E-Wallet,Member,24000
+TR063,2026-10-25,30.0,Female,Mocha,1.0,26000.0,E-Wallet,Member,26000
+TR064,2026-10-05,20.0,Female,Americano,1.0,18000.0,Credit Card,Member,18000
+TR065,2026-10-18,47.0,Male,Cappuccino,0.0,22000.0,Debit,New,22000
+TR066,2026/10/15,46.0,Male,Espresso,2.0,16000.0,QRIS,Member,32000
+TR067,2026-10-02,52.0,Male,Ice Latte,1.0,25000.0,Debit,New,25000
+TR068,2026-10-06,34.0,Male,Cold Brew,2.0,24000.0,Credit Card,Regular,48000
+TR069,2026-10-26,55.0,Female,Cold Brew,2.0,24000.0,Credit Card,New,48000
+TR070,2026-10-31,43.0,Female,Ice Latte,2.0,25000.0,Credit Card,Member,50000
+TR071,2026-10-11,22.0,Male,Mocha,2.0,26000.0,E-Wallet ,New,52000
+TR072,2026-10-28,43.0,Female,Caramel Macchiato,1.0,28000.0,Cash,Regular,28000
+TR073,2026-10-06,21.0,Male,Ice Latte,1.0,25000.0,QRIS,Member,25000
+TR074,2026-10-11,48.0,Female,Ice Latte,1.0,,Cash,New,25000
+TR075,2026-10-16,44.0,Female,Americano,1.0,18000.0,Debit,Regular,18000
+TR076,2026-10-17,47.0,Male,Ice Latte,2.0,25000.0,E-Wallet,Regular,50000
+TR077,2026-10-27,24.0,Male,Espresso,1.0,16000.0,Debit,Member,16000
+TR078,2026-10-25,29.0,Female,,1.0,28000.0,Credit Card,Member,28000
+TR079,2026-10-04,38.0,Female,Americano,1.0,18000.0,Credit Card,Regular,18000
+TR080,2026-10-07,27.0,Female,Americano,2.0,18000.0,E-Wallet,Member,36000
+TR081,2026-10-23,31.0,Female,Matcha,2.0,23000.0,Debit,Member,46000
+TR082,2026-10-21,,Female,Cappuccino,1.0,22000.0,QRIS,New,22000
+TR083,2026-10-09,26.0,Female,Americano,1.0,18000.0,Cash,Member,18000
+TR084,2026-10-07,36.0,Female ,Caramel Macchiato,1.0,28000.0,QRIS,New,28000
+TR085,2026-10-29,51.0,Female,Cappuccino,1.0,22000.0,QRIS,New,22000
+TR086,2026-10-25,20.0,Male,Mocha,4.0,26000.0,Credit Card,Regular,104000
+TR087,2026-10-05,47.0,Male,Espresso,1.0,16000.0,Credit Card,Member,16000
+TR088,2026-10-13,32.0,Male,Ice Latte,dua,25000.0,Credit Card,Regular,50000
+TR089,2026-10-08,55.0,Female,Matcha,1.0,23000.0,Credit Card,Member,23000
+TR090,2026-10-22,28.0,Female,Caramel Macchiato,,28000.0,Debit,New,56000
+TR091,2026-10-26,45.0,Male,Americano,1.0,18000.0,Credit Card,New,18000
+TR092,2026-10-17,49.0,Male,Cappuccino,2.0,22000.0,E-Wallet,Member,44000
+TR093,2026-10-10,32.0,Male,Cappuccino,3.0,22000.0,E-Wallet,New,66000
+TR094,2026-10-31,49.0,Female,Cappuccino,2.0,22000.0,Cash,Member,44000
+TR095,2026-10-05,53.0,Female,Espresso,2.0,16000.0,Cash,Regular,32000
+TR096,2026-10-06,40.0,Male,Matcha,1.0,23000.0,,Member,23000
+TR097,2026-10-10,21.0,Female,Cold Brew,1.0,24000.0,Cash,Regular,24000
+TR098,2026-10-31,50.0,Female,Mocha,3.0,26000.0,Debit,Regular,78000
+TR099,2026-10-04,42.0,,Cappuccino,2.0,22000.0,Credit Card,New,44000
+TR100,2026-10-21,27.0,Male,Cappuccino,2.0,22000.0,Credit Card,New,44000
+TR101,2026-10-18,19.0,Female,Cold Brew,2.0,24000.0,E-Wallet,Member,48000
+TR102,2026-10-17,42.0,Female,Ice Latte,4.0,999999.0,E-Wallet,Member,100000
+TR103,2026-10-05,44.0,Female,Caramel Macchiato,3.0,28000.0,E-Wallet,New,84000
+TR104,2026-10-07,27.0,Female,Americano,2.0,18000.0,Cash,Member,36000
+TR105,2026-10-03,,Male,Cold Brew,1.0,24000.0,Credit Card,Regular,24000
+TR106,2026-10-29,52.0,Male,Cappuccino,1.0,22000.0,QRIS,Member,22000
+TR107,2026-10-22,43.0,Male,Espresso,1.0,16000.0,E-Wallet,New,16000
+TR108,2026-10-19,30.0,Female,Cold Brew,2.0,24000.0,QRIS,Member,48000
+TR109,2026-10-12,30.0,Male,Espresso,3.0,16000.0,QRIS,Member,48000
+TR110,31/10/2026,47.0,Female,Espresso,1.0,16000.0,Credit Card,Regular,16000
+TR111,2026-10-04,48.0,Male,Matcha,2.0,23000.0,E-Wallet,Regular,46000
+TR112,2026-10-19,29.0,Female,Cappuccino,1.0,22000.0,e-wallet,Regular,22000
+TR113,2026-10-16,27.0,Female,Caramel Macchiato,1.0,28000.0,E-Wallet,,28000
+TR114,2026-10-11,43.0,Female,Cold Brew,3.0,24000.0,E-Wallet,New,72000
+TR115,2026-10-05,45.0,Male,Mocha,2.0,26000.0,Credit Card,New,52000
+TR116,2026-10-03,51.0,Male,Caramel Macchiato,1.0,28000.0,QRIS,Regular,-5000
+TR117,2026-10-05,35.0,Female,Cold Brew,2.0,24000.0,Credit Card,Regular,48000
+TR118,2026-10-03,19.0,Female,Espresso,1.0,16000.0,E-Wallet,Member,16000
+TR119,2026-10-15,30.0,Female,Cappuccino,3.0,22000.0,QRIS,New,66000
+TR120,2026-10-01,31.0,Male,Cappuccino,1.0,22000.0,Debit,New,22000
+TR021,2026-10-22,48.0,Female,Mocha,1.0,26000.0,Cash,Regular,26000
+TR049,2026-10-28,54.0,Male,Caramel Macchiato,1.0,28000.0,Cash,New,28000
+TR091,2026-10-26,45.0,Male,Americano,1.0,18000.0,Credit Card,New,18000
